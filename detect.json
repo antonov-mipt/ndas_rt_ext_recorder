@@ -1,0 +1,7 @@
+{
+    "class": "int_sw_module",
+    "enabled": false,
+    "name": "External disk recorder",
+    "path": "ext_disk_recorder/ext_disk_rec.py",
+    "visible": true
+}
